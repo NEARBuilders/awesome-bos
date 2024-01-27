@@ -19,26 +19,25 @@ Can be found at [near.org/gateways](https://near.org/gateways)
 - NEAR Builders Gateway
 - Cplanet
 - DiscoverBOS
-- NEAR Atlas
-- Sharddog Social
-- NEAR Digital Collective 
-- Calimero Chat
+- NEAR Atlas https://nearatlas.com
+- Sharddog Social 
+- NEAR Digital Collective https://app.neardc.org
+- Calimero Chat https://portal.calimero.network/ 
 - Urbit
 
 
 Social
-- Proof of Vibes
+- Proof of Vibes https://app.proofofvibes.com
 EVMs
 - DapDap
-- Mantle Gateway
-- Quickswap
-- Coin98 Dappstore
-- Cantopia
-- Uniswap on Linea
+- Mantle Gateway https://bos.fusionx.finance/ 
+- Quickswap https://bos.quickswap.exchange/ 
+- Coin98 Dappstore https://dapps.coin98.com/menu/bos
+- Uniswap on Linea https://linea.dapdap.net/uniswap/swap
 
 Inactive
 - BOSHACKS
-- 
+- Cantopia
 
 
 
@@ -69,11 +68,6 @@ These bots built in BOS and caster to other platforms
 
 - [BOS Docs]
 
-### Services
-
-- [Neynar Hosted Hubs](https://hubs.neynar.com)
-- [Wield Free Farcaster APIs & Hub](https://docs.wield.co/farcaster/api)
-
 ### Repos
 
 - NEAR Social Repo
@@ -81,12 +75,13 @@ These bots built in BOS and caster to other platforms
 
 ### Analytics and Data
 
-- Flipside Crypto Dashboards
+- Flipside Crypto Dashboards 
 
 ## Integrations
 - Meteor Wallet NEAR Social Profile Integrate
 - Mintbase Profile Integration
 - Wormhol3 BOS Integration
+- NCON App
 
 ## Contributions
 
